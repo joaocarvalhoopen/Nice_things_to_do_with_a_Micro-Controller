@@ -3,40 +3,40 @@ Coisas engraçadas e económicas que se podem fazer com um micro-controlador.
 
 ## Descrição
 
-Imaginem os componentes e sensores mais simples e os mais baratos, e na perspetiva de se conseguir fazer o máximo possível com o mínimo possível de hardware ... quais são esses sensores e componentes e as suas aplicações: <br>
+**Imaginem os componentes e sensores mais simples e os mais baratos**, e na perspetiva de se conseguir fazer o máximo possível com o mínimo possível de hardware ... quais são esses sensores e componentes e as suas aplicações: <br>
 
-1. LED
+1. **LED**
 
-2. Switch
+2. **Switch**
 
-3. Resistência
+3. **Resistência**
 
-4. Condensador
+4. **Condensador**
 
-5. Indutor
+5. **Indutor**
 
-6. Pino capacitivo (Num micro-controlador sem suporte para pino capacitivo nativo)
+6. **Pino capacitivo** (Num micro-controlador sem suporte para pino capacitivo nativo)
 
-7. Disco de Piezo (tipo postal de Natal)
+7. **Disco de Piezo** (tipo postal de Natal)
 
-8. Pino com um transístor MOS-FET capaz de comutar rapidamente.
+8. **Pino com um transístor MOS-FET** capaz de comutar rapidamente.
 
-9. Pino Emissor de Radio frequência (onda eletromagnética)
+9. **Pino emissor de Radio frequência** (onda eletromagnética)
 
-10. Pino de entrada de ADC para fazer sampling a ondas eletromagnéticas de rádio (pode ter de levar um andar de amplificação antes e processamento digital do sinal - difícil, mas exequível em alguns micro-controladores mais potentes Cortex M4 com floating point).
+10. **Pino de entrada de ADC para fazer sampling a ondas eletromagnéticas de rádio** (pode ter de levar um andar de amplificação antes e processamento digital do sinal - difícil, mas exequível em alguns micro-controladores mais potentes Cortex M4 com floating point).
 
-11. Play, gravar, processamento, reconhecimento e text-toSpeech de áudio num micro-controlador
+11. **Play, gravar, processamento, reconhecimento e text-to-speech de áudio num micro-controlador**
 
-12. Com díodos, transistores e OpAmp’s conseguem-se fazer muitos circuitos interessantes analógicas mesmo que sejam coisas simples e consegue-se alta velocidade analógica.
+12. **Com díodos, transistores e OpAmp’s** conseguem-se fazer muitos circuitos interessantes analógicas mesmo que sejam coisas simples e consegue-se alta velocidade analógica.
 
-13. Ecrã LCD 16x2 de 4 euros.
+13. **Ecrã LCD 16x2 de 4 euros**
 
-14. Microfones de I2S
+14. **Microfones de I2S**
 
-15. Pino capaz de ligar e desligar 220 V e alta potência num Relé. (Este não queria pois os Relés são normalmente usados com 220 V e eu não gosto da ideia de usar 220 V nos meus mini projetos, eles devem ser brincadeiras e não coisas sérias que exijam alta segurança para não haver risco de eletrocussão ou de incêndio, quer no desenvolvimento, quer na sua futura utilização, 220 V abre uma CAN of Worms!) <br>
+15. **Pino capaz de ligar e desligar 220 V e alta potência num relé.** (Este não queria pois os Relés são normalmente usados com 220 V e eu não gosto da ideia de usar 220 V nos meus mini projetos, eles devem ser brincadeiras e não coisas sérias que exijam alta segurança para não haver risco de eletrocussão ou de incêndio, quer no desenvolvimento, quer na sua futura utilização, 220 V abre uma CAN of Worms!) <br>
 <br>
 
-Agora vou tentar listar todas as funções / aplicações de projetos que consigo imaginar ou lembrar-me para cada um dos componentes ou sensores simples atrás descritos. Coisas que sejam engraçadas e simples. <br>
+**Agora vou tentar listar todas as funções / aplicações de projetos que consigo imaginar ou lembrar-me** para cada um dos componentes ou sensores simples atrás descritos. Coisas que sejam engraçadas e simples. <br>
 
 
 ## 1 - LED
